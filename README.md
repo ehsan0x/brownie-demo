@@ -1,5 +1,5 @@
 # brownie-demo
-Getting my hands on Brownie
+Getting hands on Brownie
 
 # BROWNIE COMMANDS
 
