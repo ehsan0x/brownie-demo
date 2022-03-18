@@ -1,6 +1,3 @@
-# brownie-demo
-Getting hands on Brownie
-
 # BROWNIE COMMANDS
 
 `brownie init`  
