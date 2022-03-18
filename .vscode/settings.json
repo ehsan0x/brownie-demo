@@ -1,0 +1,6 @@
+{
+    "solidity.remappings": [
+        "@chainlink/=/home/machine/.brownie/packages/smartcontractkit/chainlink-brownie-contracts@1.1.1"
+    ],
+    "solidity.compileUsingRemoteVersion": "0.6.6"
+}
